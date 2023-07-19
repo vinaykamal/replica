@@ -1,0 +1,58 @@
+.main-div{
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.card-div:hover{
+    box-shadow: 2px 2px 2px 2px gray;
+    border-radius: 5px;
+}
+
+.card-div{
+    width: 30%;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 5px;
+    height: 150px;
+}
+
+.card-img{
+    margin-right: 10px;
+    height: 70px;
+    
+}
+
+.card-title{
+    color: black;
+}
+
+.bookmark{
+    text-align: right;
+}
+
+.top-card{
+    display: flex;
+    padding: 5px;
+}
+
+.left-bottom{
+    display: flex;
+}
+
+.svg-div{
+    margin-right: 10px;
+}
+
+.card-shareprice{
+    color: green;
+}
+
+.bottom-card{
+    display: flex;
+    justify-content: space-between;
+    /* background: linear-gradient(354deg, rgba(222, 228, 254, 0.50) 0%, rgba(222, 228, 254, 0.00) 93.23%); */
+    background: #D1DDEF;
+    border-radius: 0 0 5px 5px;
+    height: 50px;
+    padding: 10px;
+}
